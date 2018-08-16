@@ -1,0 +1,17 @@
+Requisitos 2do parcial		Beat'em All
+Mayo 11/2018
+1. Menu 3 opciones 10
+2. Pausa durante el juego 10
+3. 1 Nivel
+	-Fondo real min 2000x1200 10
+	-Jugadores 10
+	-Uso de sprites (No deben ser usados los usados en clase) 10
+	-2 tipos de enemigos, 1 estático (Almenos 10) y 1 dinámico, 		 deben generarse
+	 continuamente 10
+	-Fondo y efecto de sonido 5
+	-Linea de vida de jugadores
+	-Modificadores de juego, 4 completamente diferentes 10
+4. Gestión del juego
+	-Siempre regresar a menu inicial
+	-Mensaje de fin de juego en caso de perder
+	-Mensaje de victoria en caso de completar objetivos

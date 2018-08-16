@@ -1,0 +1,3 @@
+poner lo de la pausa en funciones o en su defecto en for
+
+falta el daño hacia el jugador, pienso hacerlo por parte de balas lanzadas por el robot 
